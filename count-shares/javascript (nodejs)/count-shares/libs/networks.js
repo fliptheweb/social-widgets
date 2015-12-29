@@ -28,7 +28,7 @@ module.exports = {
     },
 
     twitter: {
-        url  : 'http://urls.api.twitter.com/1/urls/count.json?url=',
+        url  : 'http://opensharecount.com/count.json?url=',
         parse: function( res ) {
             return JSON.parse( res ).count / 1;
         }
