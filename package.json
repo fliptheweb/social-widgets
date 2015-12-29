@@ -1,0 +1,21 @@
+{
+  "name": "share-count",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/clexit/social-widgets.png?branch=master)](https://travis-ci.org/clexit/social-widgets)",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fliptheweb/social-widgets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fliptheweb/social-widgets/issues"
+  },
+  "homepage": "https://github.com/fliptheweb/social-widgets#readme"
+}
